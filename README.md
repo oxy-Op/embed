@@ -7,9 +7,9 @@ Discord Embed Using Discord User Automtion
   
   Installation :- 
   
-      <div style:cursor:crosshair> <p> There are Many Ways to use it</p> </div>
+ <div style:cursor:crosshair> <p> There are Many Ways to use it</p> </div>
  
-<li> Clone it  ```git clone https://github.com/oxy-Op/embed``` </li>
+<li> Clone it  ``` git clone https://github.com/oxy-Op/embed ``` </li>
 <br /> 
 <li> Download it </li>
  
