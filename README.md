@@ -27,13 +27,12 @@ Run:
    If your token is valid , Check console you can see your name and tag
    After that go to channel where you want to use embed and type :-
     
-```o!embed title description footer thumbnailicon footericon
-```
+```o!embed title description footer thumbnailicon footericon```
 
-Here :
-    **title will be title (text) of your discord embed <br />
+Here : <br />
+    title will be title (text) of your discord embed <br />
     description will be description (text) <br />
     footer will be footer (text) <br />
     thumbnail will be thumbnail (url) <br />
-    footericon will be footer ion (url) <br /> **
+    footericon will be footer ion (url) <br /> 
     
