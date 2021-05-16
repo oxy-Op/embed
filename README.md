@@ -28,14 +28,12 @@ Run:
    After that go to channel where you want to use embed and type :-
     
 ```o!embed title description footer thumbnailicon footericon
-
-
 ```
 
 Here :
-    **title will be title (text) of your discord embed
-    description will be description (text)
-    footer will be footer (text)
-    thumbnail will be thumbnail (url)
-    footericon will be footer ion (url)**
+    **title will be title (text) of your discord embed <br />
+    description will be description (text) <br />
+    footer will be footer (text) <br />
+    thumbnail will be thumbnail (url) <br />
+    footericon will be footer ion (url) <br /> **
     
