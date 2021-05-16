@@ -12,6 +12,6 @@ Discord Embed Using Discord User Automtion
  Clone it :  ```git clone https://github.com/oxy-Op/embed.git```
 <br /> 
 
-<li> Download it [here](https://github.com/oxy-Op/embed/archive/refs/heads/master.zip)</li>
+ Download it [here](https://github.com/oxy-Op/embed/archive/refs/heads/master.zip)
  
-#Usage
+# Usage
