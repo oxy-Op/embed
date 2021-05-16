@@ -15,3 +15,11 @@ Discord Embed Using Discord User Automtion
  Download it [here](https://github.com/oxy-Op/embed/archive/refs/heads/master.zip)
  
 # Usage
+
+*Requirements
+
+```pip install discord```
+
+Run:
+ 
+    
