@@ -9,7 +9,7 @@ Discord Embed Using Discord User Automtion
   
  <div style:cursor:crosshair> <p> There are Many Ways to use it</p> </div>
  
-<li> Clone it  ``` git clone https://github.com/oxy-Op/embed ``` </li>
+ Clone it  ```git clone https://github.com/oxy-Op/embed```
 <br /> 
 <li> Download it </li>
  
