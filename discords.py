@@ -17,4 +17,4 @@ async def embed(ctx,title,description,footer,thumbnail,footericon):
     await ctx.send(embed=embed)
 
 
-bot.run(token,bot=False,reconnect=True)
+bot.run(token,bot=False,reconnect=True) 
